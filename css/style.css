@@ -174,7 +174,7 @@ footer{
     background: linear-gradient(0deg, rgba(118,161,251,1) 4%, rgba(143,252,254,1) 26%);
 }
 
-@media( max-width:380px){
+@media only screen and (max-width:380px){
 
     #header{
 
